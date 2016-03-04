@@ -1,0 +1,5 @@
+/dist/
+*.xml
+*.properties
+/build/
+*.mf
